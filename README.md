@@ -1,2 +1,2 @@
-# data_visualization
-可视化的小项目
+一些kaggle上面我做的练习，只为记录我的成长
+
